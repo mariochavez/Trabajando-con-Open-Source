@@ -19,55 +19,50 @@ Solicitudes de reporte deben de ser enviadas a:
 * [Lista de correos](LINK A LA LISTA)
 * [Stack Overflow](http://stackoverflow.com/questions/ask?tags=ETIQUETA)
 
-Feature requests can be discussed on [the elixir-core mailing list](https://groups.google.com/group/elixir-lang-core).
+Para solicitar nuevas características la solicitud se puede hacer en [Lista de discusión](LINK_A_LA_LIST).
 
-We do our best to keep the issue tracker tidy and organized, making it useful
-for everyone. For example, we classify open issues per application and perceived
-difficulty of the issue, making it easier for developers to
-[contribute to Elixir](#contributing).
+Hacemos los mejor posible para mantener la lista de errores pequeña y organizada, de manera
+que sea útil para todos. Por ejemplo, clasificamos los errores en base a la dificultad percivida,
+para que sea más sencillo a otros desarrolladores el [contribuir al proyecto](#contributing).
 
-## Bug reports
+## Reporte de errores
 
-A bug is a _demonstrable problem_ that is caused by the code in the repository.
-Good bug reports are extremely helpful - thank you!
+Un error es un _problema demostrable_ que es causado por el código en el repositorio.
+Buenos reportes de errores son extremadamente útiles - Gracias!
 
-Guidelines for bug reports:
+Guía para el reporte de errores:
 
-1. **Use the GitHub issue search** &mdash; [check if the issue has already been
-   reported](https://github.com/elixir-lang/elixir/search?type=Issues).
+1. **Utiliza la busqueda de GitHub** &mdash; [Para revisaer que el error no ha sido reportado con anterioridad](https://github.com/USUARIO/PROYECTO/search?type=Issues).
 
-2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
-   `master` branch in the repository.
+2. **Verifique si el error ha sido corregido** &mdash; trate de reproducirlo utilizando el _branch_ de `master` en el repositorio.
 
-3. **Isolate and report the problem** &mdash; ideally create a reduced test
-   case.
+3. **Aisle y reporte el problema** &mdash; idealmente creado para reducir el caso a probar.
 
-Please try to be as detailed as possible in your report. Include information about
-your Operating System, your Erlang and Elixir versions. Please provide steps to
-reproduce the issue as well as the outcome you were expecting! All these details
-will help developers to fix any potential bugs.
+Por favor trate de ser lo más detallado posible en su reporte. Incluya información acerca de
+su sistema operativo y la versión de librerías importantes. Describa los pasos para reproducir 
+el problema y cuál es el resultado esperado. Todos estos detalles ayudan a los desarrolladores 
+a resolver cualquier error potencial.
 
-Example:
+Ejemplo:
 
-> Short and descriptive example bug report title
+> Título del problema corto y descriptivo
 >
-> A summary of the issue and the environment in which it occurs. If suitable,
-> include the steps required to reproduce the bug.
+> Un resumen del problema y del ambiente en él que ocurre. Si es posible, 
+> incluya los pasos necesarios para reproducirlo.
 >
-> 1. This is the first step
-> 2. This is the second step
-> 3. Further steps, etc.
+> 1. Primer paso
+> 2. Segundo paso
+> 3. Pasos adicionales
 >
-> `<url>` - a link to the reduced test case (e.g. a GitHub Gist)
+> `<url>` - un link con código para reproducir el problema (ej. a GitHub Gist)
 >
-> Any other information you want to share that is relevant to the issue being
-> reported. This might include the lines of code that you have identified as
-> causing the bug, and potential solutions (and your opinions on their
-> merits).
+> Cualquiér otra información que quieras compartir y que sea relevante para el problema
+> descrito. Esto puede incluir las líneas de código que tu haz identificado como el causante
+> del error y sus soluciones potenciales (y tú opinión de los méritos de la solución).
 
-## Feature requests
+## Solicitud de nuevas características
 
-Feature requests are welcome and should be discussed on [the elixir-core mailing list](https://groups.google.com/group/elixir-lang-core). But take a moment to find
+ Feature requests are welcome and should be discussed on [the elixir-core mailing list](https://groups.google.com/group/elixir-lang-core). But take a moment to find
 out whether your idea fits with the scope and aims of the project. It's up to *you*
 to make a strong case to convince the community of the merits of this feature.
 Please provide as much detail and context as possible.
